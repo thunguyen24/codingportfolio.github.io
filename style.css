@@ -3,6 +3,26 @@
 	src: url(font/AvertaforTBWA-Semibold.ttf);
 }
 
+@font-face {
+	font-family: Averta for TBWA;
+	src: url(font/AvertaforTBWA-Regular.ttf);
+}
+
+@font-face{
+	font-family: Otto Atta;
+	src: url(font/OTTOATTACTYPE.ttf);
+}
+
+@font-face {
+	font-family: Frankest;
+	src: url(font/FrankestScriptDemoRegular.ttf);
+}
+
+@font-face {
+	font-family: Poppins;
+	src: url(font/Poppins-Regular.ttf);
+}
+
 .header-jumbotron {
 	margin-bottom:0 !important;
 	height: 100vh;
@@ -114,14 +134,14 @@ footer{
 }
 
 .title-shard{
-	font-family: AvertaforTBWA-Semibold;
+	font-family: Otto Atta;
 	color: #A6977B;
 	font-size: 16vh;
 
 }
 
 .title-special{
-	font-family: Frankest Script DEMO;
+	font-family: Frankest;
 	color:#A6977B;
 	font-size: 16vh;
 }
