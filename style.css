@@ -38,6 +38,11 @@
 	src: url(font/savoye-let-plain-1-0.ttf);
 }
 
+@font-face {
+	font-family: SFUBaskerville;
+	src: url(font/SFUBaskervilleBookItalic.TTF);
+}
+
 .header-jumbotron {
 	margin-bottom:0 !important;
 	height: 100vh;
@@ -429,25 +434,31 @@ footer{
 }
 
 .day-1-bottom{
-	font-family: Savoye LET;
+	font-family: SFUBaskerville;
 	color: #3B4035;
-	font-size: 35vh;
+	font-size: 20vh;
+	font-style: italic;
 	margin-top: 12vh;
-
+	margin-bottom: 10vh;
+	
 }
 
 .day-23-bottom{
-	font-family: Savoye LET;
+	font-family: SFUBaskerville;
 	color: #3B4035;
-	font-size: 35vh;
+	font-size: 20vh;
+	font-style: italic;
 	margin-top: 12vh;
+	margin-bottom: 10vh;
 }
 
 .day-456-bottom{
-	font-family: Savoye LET;
+	font-family: SFUBaskerville;
 	color: #3B4035;
-	font-size: 35vh;
+	font-size: 20vh;
+	font-style: italic;
 	margin-top: 12vh;
+	margin-bottom: 10vh;
 }
 
 
