@@ -1,3 +1,8 @@
+@font-face{
+	font-family:AvertaforTBWA-Semibold ;
+	src: url("font/AvertaforTBWA-Semibold.ttf");
+}
+
 .header-jumbotron {
 	margin-bottom:0 !important;
 	height: 100vh;
